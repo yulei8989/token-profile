@@ -1,0 +1,18 @@
+{
+  "symbol": "MGX",
+  "address": "0x53cad5239d536f5dfe0b3e72ebccadb923451672",
+  "overview":{
+    "en": "Mgx is a de-centralized mining project. It is an original and new DAG structural algorithm-schema partition fusion algorithm (B-DAG algorithm). Through SDK, we can realize the seamless docking of entertainment social products with the function of snatching red envelopes on the chain.",
+    "zh": "Mgx是一个去中心化的可挖矿项目，原创全新DAG结构性算法-图式分区融合算法（B-DAG算法）。通过SDK可实现链上抢红包功能无缝对接娱乐类社交产品。"
+  },
+  "website": "www.mangox.net",
+  "whitepaper": "www.mangox.net/White_paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-06-10",
+  "initial_price":{
+    "USD":"0.001 USD"
+  },
+  "links": {
+    "Telegram": "t.me/mangox_official"
+  }
+}
